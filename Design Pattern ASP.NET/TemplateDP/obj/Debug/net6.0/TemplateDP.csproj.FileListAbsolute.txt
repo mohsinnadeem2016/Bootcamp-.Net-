@@ -1,0 +1,15 @@
+C:\Users\nadeemoh\source\repos\TemplateDP\bin\Debug\net6.0\TemplateDP.exe
+C:\Users\nadeemoh\source\repos\TemplateDP\bin\Debug\net6.0\TemplateDP.deps.json
+C:\Users\nadeemoh\source\repos\TemplateDP\bin\Debug\net6.0\TemplateDP.runtimeconfig.json
+C:\Users\nadeemoh\source\repos\TemplateDP\bin\Debug\net6.0\TemplateDP.dll
+C:\Users\nadeemoh\source\repos\TemplateDP\bin\Debug\net6.0\TemplateDP.pdb
+C:\Users\nadeemoh\source\repos\TemplateDP\obj\Debug\net6.0\TemplateDP.csproj.AssemblyReference.cache
+C:\Users\nadeemoh\source\repos\TemplateDP\obj\Debug\net6.0\TemplateDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadeemoh\source\repos\TemplateDP\obj\Debug\net6.0\TemplateDP.AssemblyInfoInputs.cache
+C:\Users\nadeemoh\source\repos\TemplateDP\obj\Debug\net6.0\TemplateDP.AssemblyInfo.cs
+C:\Users\nadeemoh\source\repos\TemplateDP\obj\Debug\net6.0\TemplateDP.csproj.CoreCompileInputs.cache
+C:\Users\nadeemoh\source\repos\TemplateDP\obj\Debug\net6.0\TemplateDP.dll
+C:\Users\nadeemoh\source\repos\TemplateDP\obj\Debug\net6.0\refint\TemplateDP.dll
+C:\Users\nadeemoh\source\repos\TemplateDP\obj\Debug\net6.0\TemplateDP.pdb
+C:\Users\nadeemoh\source\repos\TemplateDP\obj\Debug\net6.0\TemplateDP.genruntimeconfig.cache
+C:\Users\nadeemoh\source\repos\TemplateDP\obj\Debug\net6.0\ref\TemplateDP.dll

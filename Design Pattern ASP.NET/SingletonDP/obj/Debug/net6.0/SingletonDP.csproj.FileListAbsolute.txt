@@ -1,0 +1,15 @@
+C:\Users\nadeemoh\source\repos\SingletonDP\bin\Debug\net6.0\SingletonDP.exe
+C:\Users\nadeemoh\source\repos\SingletonDP\bin\Debug\net6.0\SingletonDP.deps.json
+C:\Users\nadeemoh\source\repos\SingletonDP\bin\Debug\net6.0\SingletonDP.runtimeconfig.json
+C:\Users\nadeemoh\source\repos\SingletonDP\bin\Debug\net6.0\SingletonDP.dll
+C:\Users\nadeemoh\source\repos\SingletonDP\bin\Debug\net6.0\SingletonDP.pdb
+C:\Users\nadeemoh\source\repos\SingletonDP\obj\Debug\net6.0\SingletonDP.csproj.AssemblyReference.cache
+C:\Users\nadeemoh\source\repos\SingletonDP\obj\Debug\net6.0\SingletonDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadeemoh\source\repos\SingletonDP\obj\Debug\net6.0\SingletonDP.AssemblyInfoInputs.cache
+C:\Users\nadeemoh\source\repos\SingletonDP\obj\Debug\net6.0\SingletonDP.AssemblyInfo.cs
+C:\Users\nadeemoh\source\repos\SingletonDP\obj\Debug\net6.0\SingletonDP.csproj.CoreCompileInputs.cache
+C:\Users\nadeemoh\source\repos\SingletonDP\obj\Debug\net6.0\SingletonDP.dll
+C:\Users\nadeemoh\source\repos\SingletonDP\obj\Debug\net6.0\refint\SingletonDP.dll
+C:\Users\nadeemoh\source\repos\SingletonDP\obj\Debug\net6.0\SingletonDP.pdb
+C:\Users\nadeemoh\source\repos\SingletonDP\obj\Debug\net6.0\SingletonDP.genruntimeconfig.cache
+C:\Users\nadeemoh\source\repos\SingletonDP\obj\Debug\net6.0\ref\SingletonDP.dll

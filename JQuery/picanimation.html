@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script>
+    src="https://code.jquery.com/jquery-3.6.1.min.js"
+    integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ="
+    crossorigin="anonymous"
+    </script>
+    <title> jQuery Picture Animation</title>
+</head>
+<body>
+    <image  id= "this " src=".NET/pic/Book.JFIF" >
+    <button id="button"> Animate image</button>
+   
+<script>
+    
+    $("#mydiv").animate({
+    height: '200px',
+    width: '200px'
+
+    }, 5000 );
+
+    $("button").click(function(){
+    $(".mydiv").animate({
+    height: '400px',
+    width: '400px'
+
+    }, 5000 );
+});
+</script>
+</body>
+</html>
