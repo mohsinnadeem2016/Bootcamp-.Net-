@@ -1,0 +1,15 @@
+C:\Users\MOHSIN\source\repos\NumberPattern\obj\Debug\net6.0\NumberPattern.csproj.AssemblyReference.cache
+C:\Users\MOHSIN\source\repos\NumberPattern\obj\Debug\net6.0\NumberPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHSIN\source\repos\NumberPattern\obj\Debug\net6.0\NumberPattern.AssemblyInfoInputs.cache
+C:\Users\MOHSIN\source\repos\NumberPattern\obj\Debug\net6.0\NumberPattern.AssemblyInfo.cs
+C:\Users\MOHSIN\source\repos\NumberPattern\obj\Debug\net6.0\NumberPattern.csproj.CoreCompileInputs.cache
+C:\Users\MOHSIN\source\repos\NumberPattern\bin\Debug\net6.0\NumberPattern.exe
+C:\Users\MOHSIN\source\repos\NumberPattern\bin\Debug\net6.0\NumberPattern.deps.json
+C:\Users\MOHSIN\source\repos\NumberPattern\bin\Debug\net6.0\NumberPattern.runtimeconfig.json
+C:\Users\MOHSIN\source\repos\NumberPattern\bin\Debug\net6.0\NumberPattern.dll
+C:\Users\MOHSIN\source\repos\NumberPattern\bin\Debug\net6.0\NumberPattern.pdb
+C:\Users\MOHSIN\source\repos\NumberPattern\obj\Debug\net6.0\NumberPattern.dll
+C:\Users\MOHSIN\source\repos\NumberPattern\obj\Debug\net6.0\refint\NumberPattern.dll
+C:\Users\MOHSIN\source\repos\NumberPattern\obj\Debug\net6.0\NumberPattern.pdb
+C:\Users\MOHSIN\source\repos\NumberPattern\obj\Debug\net6.0\NumberPattern.genruntimeconfig.cache
+C:\Users\MOHSIN\source\repos\NumberPattern\obj\Debug\net6.0\ref\NumberPattern.dll
